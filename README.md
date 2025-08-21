@@ -1,16 +1,18 @@
-# 👋 Hi, I’m Alisher
-
-## 🚀 About Me
-
-I’m a **Frontend Developer** passionate about building modern and user-friendly web applications.  
-I enjoy working with cutting-edge technologies, improving code quality, and collaborating in strong teams.
-
 <div align="center">
   <figure>
     <img src="./assets/coding-work.gif" width="100%" />
   </figure>
 
 </div>
+
+---
+
+# 👋 Hi, I’m Alisher
+
+## 🚀 About Me
+
+I’m a **Frontend Developer** passionate about building modern and user-friendly web applications.  
+I enjoy working with cutting-edge technologies, improving code quality, and collaborating in strong teams.
 
 ---
 
