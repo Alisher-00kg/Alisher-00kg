@@ -1,15 +1,23 @@
 # 👋 Hi, I’m Alisher
 
 ## 🚀 About Me
-I’m a **Frontend Developer** passionate about building modern and user-friendly web applications.  
-I enjoy working with cutting-edge technologies, improving code quality, and collaborating in strong teams.  
 
-![Coding](./assets/coding-work.gif)
+I’m a **Frontend Developer** passionate about building modern and user-friendly web applications.  
+I enjoy working with cutting-edge technologies, improving code quality, and collaborating in strong teams.
+
+<div align="center">
+  <figure>
+    <img src="./assets/coding-work.gif" width="100%" />
+  </figure>
+
+</div>
 
 ---
+
 ## 💻 Tech Stack
 
 ### Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -26,15 +34,18 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white)
 
 ### Backend & Tools
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 
 ### Deployment & Version Control
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### Collaboration & Design
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Pixso](https://img.shields.io/badge/Pixso-1F2229?logo=pixso&logoColor=purple)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -44,12 +55,14 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 ![Teamhood](https://img.shields.io/badge/Teamhood-00A2E1?logoColor=white)
 
 ### Code Quality
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
 
 ---
 
 ## 🌟 Projects
+
 - 🍣 [**Samurai-Sushi Delivery App**](https://github.com/a6uxa4/SamuraiSushi) — сайт доставки японской кухни (React, TypeScript, Next.js).
 - 🎓 [**Task Tracker**](https://github.com/Sunshine-Pirates/task-tracker) — веб-приложение для управления задачами, помогающее командам и отдельным пользователям организовывать и отслеживать работу. Система поддерживает несколько ролей пользователей.
 - 🚘 [**Rent Car**](https://github.com/Alisher-00kg/rent_car) — веб-приложение по аренде автомобилей в России.
@@ -58,6 +71,7 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 ---
 
 ## 📊 GitHub Stats
+
 ![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisher-00kg&show_icons=true&theme=merko)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher-00kg&layout=compact&theme=merko)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alisher-00kg&theme=merko)
@@ -65,12 +79,11 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Alisher-00kg&theme=tokyonight&no-frame=true&margin-w=15)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Alisher-00kg&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
 ## 📫 Contacts
-- 📧 Email: **alisher.estebesov@gmail.com**  
 
-
+- 📧 Email: **alisher.estebesov@gmail.com**
