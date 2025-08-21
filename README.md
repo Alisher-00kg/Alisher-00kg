@@ -48,10 +48,11 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 ---
 
 ## 🌟 Projects
-- 🍣 [**Samurai-Sushi Delivery App**]([https://github.com/Alisher-00kg/sushi-delivery](https://github.com/a6uxa4/SamuraiSushi)) — сайт доставки японской кухни (React, TypeScript, Next.js).
-- 🎓 [**Task Tracker**]([https://github.com/Alisher-00kg/lms-platform](https://github.com/Sunshine-Pirates/task-tracker)) — A web-based task management application designed to help teams and individuals organize, track, and manage their work efficiently. The system provides two user roles with different access levels Student).
-- 🚘 [**Rent Car**]([https://github.com/Alisher-00kg/landing-pages](https://github.com/Alisher-00kg/rent_car)) — веб-приложение по аренде автомобилей в России.
-- 📚 [**LMS**]([[https://github.com/Alisher-00kg/landing-pages](https://github.com/Alisher-00kg/rent_car)](https://github.com/PeaksoftFrontend/LMS-JS_5)) — Обучающая система с ролевой моделью (Admin, Instructor, Student).
+- 🍣 [**Samurai-Sushi Delivery App**](https://github.com/a6uxa4/SamuraiSushi) — сайт доставки японской кухни (React, TypeScript, Next.js).
+- 🎓 [**Task Tracker**](https://github.com/Sunshine-Pirates/task-tracker) — веб-приложение для управления задачами, помогающее командам и отдельным пользователям организовывать и отслеживать работу. Система поддерживает несколько ролей пользователей.
+- 🚘 [**Rent Car**](https://github.com/Alisher-00kg/rent_car) — веб-приложение по аренде автомобилей в России.
+- 📚 [**LMS**](https://github.com/PeaksoftFrontend/LMS-JS_5) — обучающая система с ролевой моделью (Admin, Instructor, Student).
+
 ---
 
 ## 📊 GitHub Stats
