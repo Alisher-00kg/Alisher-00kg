@@ -72,15 +72,17 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 
 ## 📊 GitHub Stats
 
-![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisher-00kg&show_icons=true&theme=merko)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher-00kg&layout=compact&theme=merko)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alisher-00kg&theme=merko)
+![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisher-00kg&show_icons=true&title_color=00C2FF&text_color=00A2E8&icon_color=00C2FF&bg_color=0D1117&border_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher-00kg&layout=compact&title_color=00C2FF&text_color=00A2E8&bg_color=0D1117&border_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alisher-00kg&theme=dark&ring=00C2FF&fire=00A2E8&currStreakLabel=00C2FF&sideNums=00A2E8&currStreakNum=00C2FF&sideLabels=00C2E8&dates=5BC0DE&background=0D1117)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alisher-00kg&theme=tokyonight&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alisher-00kg&no-frame=true&no-bg=true&margin-w=15&title=Commits,Repositories,Stars,PullRequest,Issues,Followers&theme=discord&title_color=00C2FF&text_color=00A2E8&bg_color=0D1117)
 
 ---
 
