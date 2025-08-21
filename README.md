@@ -56,9 +56,9 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 ---
 
 ## 📊 GitHub Stats
-![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisher-00kg&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher-00kg&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alisher-00kg&theme=radical)
+![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisher-00kg&show_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher-00kg&layout=compact&theme=merko)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alisher-00kg&theme=merko)
 
 ---
 
