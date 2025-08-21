@@ -51,7 +51,7 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 - 🍣 [**Samurai-Sushi Delivery App**]([https://github.com/Alisher-00kg/sushi-delivery](https://github.com/a6uxa4/SamuraiSushi)) — сайт доставки японской кухни (React, TypeScript, Next.js).
 - 🎓 [**Task Tracker**]([https://github.com/Alisher-00kg/lms-platform](https://github.com/Sunshine-Pirates/task-tracker)) — A web-based task management application designed to help teams and individuals organize, track, and manage their work efficiently. The system provides two user roles with different access levels Student).
 - 🚘 [**Rent Car**]([https://github.com/Alisher-00kg/landing-pages](https://github.com/Alisher-00kg/rent_car)) — веб-приложение по аренде автомобилей в России.
-- 🚘 [**LMS**]([[https://github.com/Alisher-00kg/landing-pages](https://github.com/Alisher-00kg/rent_car)](https://github.com/PeaksoftFrontend/LMS-JS_5)) — Обучающая система с ролевой моделью (Admin, Instructor, Student).
+- 📚 [**LMS**]([[https://github.com/Alisher-00kg/landing-pages](https://github.com/Alisher-00kg/rent_car)](https://github.com/PeaksoftFrontend/LMS-JS_5)) — Обучающая система с ролевой моделью (Admin, Instructor, Student).
 ---
 
 ## 📊 GitHub Stats
@@ -62,7 +62,8 @@ I enjoy working with cutting-edge technologies, improving code quality, and coll
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Alisher-00kg&theme=radical&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alisher-00kg&theme=tokyonight&no-frame=true&margin-w=15)
+
 
 ---
 
