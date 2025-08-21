@@ -4,6 +4,8 @@
 I’m a **Frontend Developer** passionate about building modern and user-friendly web applications.  
 I enjoy working with cutting-edge technologies, improving code quality, and collaborating in strong teams.  
 
+![Coding](./assets/coding-work.gif)
+
 ---
 ## 💻 Tech Stack
 
